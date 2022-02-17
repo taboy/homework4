@@ -14,4 +14,4 @@ void kub(int num2){
             Console.WriteLine(first1);
         }}}
 
-even(num);
+kub(num);
